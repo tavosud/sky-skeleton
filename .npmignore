@@ -1,0 +1,14 @@
+# Source
+src/
+
+# Config & tooling
+rollup.config.mjs
+tsconfig.json
+vitest.config.ts
+*.config.mjs
+*.config.ts
+
+# CI / misc
+.github/
+.vscode/
+*.log
