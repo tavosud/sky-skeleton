@@ -1,6 +1,6 @@
 {
   "name": "@tavosud/sky-skeleton",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Lightweight zero-dependency React skeleton loader with shimmer effect",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
