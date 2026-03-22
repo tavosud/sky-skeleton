@@ -2,7 +2,13 @@
 
 Lightweight, zero-dependency React skeleton loader with a GPU-accelerated CSS shimmer. Built for performance — under **1.3 KB** (ESM, minified), zero repaints.
 
-[![Tests](https://img.shields.io/badge/tests-33%20passed-brightgreen)](#testing)
+[![npm version](https://img.shields.io/npm/v/@tavosud/sky-skeleton?color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/@tavosud/sky-skeleton)
+[![npm downloads](https://img.shields.io/npm/dm/@tavosud/sky-skeleton?color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/@tavosud/sky-skeleton)
+[![bundle size](https://img.shields.io/badge/bundle-~1.3%20KB-informational?logo=webpack&logoColor=white)](https://bundlephobia.com/package/@tavosud/sky-skeleton)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-%3E%3D17-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+[![license](https://img.shields.io/badge/license-MIT-green?logo=opensourceinitiative&logoColor=white)](./LICENSE)
+[![Tests](https://img.shields.io/badge/tests-33%20passed-brightgreen?logo=vitest&logoColor=white)](#testing)
 [![Ko-fi](https://img.shields.io/badge/Buy%20me%20a%20coffee-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/tavosud)
 
 ## Features
