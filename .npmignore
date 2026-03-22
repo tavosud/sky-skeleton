@@ -1,6 +1,9 @@
 # Source
 src/
 
+# Test artifacts in dist
+dist/test/
+
 # Config & tooling
 rollup.config.mjs
 tsconfig.json
