@@ -1,7 +1,6 @@
 import resolve from '@rollup/plugin-node-resolve';
 import commonjs from '@rollup/plugin-commonjs';
 import typescript from '@rollup/plugin-typescript';
-import postcss from 'rollup-plugin-postcss';
 
 /** @type {import('rollup').RollupOptions} */
 export default {
@@ -24,10 +23,5 @@ export default {
     resolve(),
     commonjs(),
     typescript({ tsconfig: './tsconfig.json' }),
-    postcss({
-      extract: false,
-      inject: true,
-      minimize: true,
-    }),
   ],
 };

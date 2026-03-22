@@ -1,5 +1,5 @@
 import React, { CSSProperties, ElementType, forwardRef, useEffect, useRef, useState } from 'react';
-import './Skeleton.css';
+import { injectStyles } from './styles';
 import { useSkeletonTheme } from './SkeletonTheme';
 
 /**
@@ -180,6 +180,7 @@ const SkeletonItem = forwardRef<HTMLElement, SkeletonItemProps>(function Skeleto
   animate = true,
   'aria-label': ariaLabel = 'Loading...',
 }, forwardedRef) {
+  injectStyles(); // Ensure styles are in <head> — runs only once per page
   const innerRef = useRef<HTMLElement>(null);
   const isVisible = useIsVisible(innerRef);
 
