@@ -52,5 +52,5 @@
     "typescript": "^5.9.3",
     "vitest": "^4.1.0"
   },
-  "sideEffects": false
+  "sideEffects": ["dist/index.js", "dist/index.esm.js"]
 }
