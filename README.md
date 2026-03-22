@@ -9,6 +9,7 @@ Lightweight, zero-dependency React skeleton loader with a GPU-accelerated CSS sh
 [![React](https://img.shields.io/badge/React-%3E%3D17-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 [![license](https://img.shields.io/badge/license-MIT-green?logo=opensourceinitiative&logoColor=white)](./LICENSE)
 [![Tests](https://img.shields.io/badge/tests-33%20passed-brightgreen?logo=vitest&logoColor=white)](#testing)
+[![CodeSandbox](https://img.shields.io/badge/demo-CodeSandbox-151515?logo=codesandbox&logoColor=white)](https://codesandbox.io/p/sandbox/799989)
 [![Ko-fi](https://img.shields.io/badge/Buy%20me%20a%20coffee-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/tavosud)
 
 ## Features
